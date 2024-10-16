@@ -3,27 +3,27 @@
         "id": 1,
         "nome": "Hotel Paradiso",
         "immagine": "https://www.teamsystem.com/magazine/contrib/uploads/tipologie-hotel.jpg",
-        "indirizzo": "Via Roma 1, Firenze",
+        "indirizzo": "Via Roma",
         "descrizione": "Un hotel romantico con piscina e ristorante panoramico.",
-        "telefono": "+39 055 1234567",
-        "sito_web": "https://www.hotelparadiso.com"
+        "telefono": "333333333333",
+        "sito_web": "https://www"
     },
     {
         "id": 2,
         "nome": "Hotel Vista Mare",
         "immagine": "https://www.teamsystem.com/magazine/contrib/uploads/tipologie-hotel.jpg",
-        "indirizzo": "Lungomare 20, Napoli",
+        "indirizzo": "Lungomare",
         "descrizione": "Un hotel con vista sul mare, perfetto per famiglie.",
-        "telefono": "+39 081 2345678",
-        "sito_web": "https://www.hotelvistamare.com"
+        "telefono": "333333333333",
+        "sito_web": "https://www"
     },
     {
         "id": 3,
         "nome": "Hotel Montagna",
         "immagine": "https://www.teamsystem.com/magazine/contrib/uploads/tipologie-hotel.jpg",
-        "indirizzo": "Strada delle Alpi 5, Courmayeur",
+        "indirizzo": "Strada delle",
         "descrizione": "Un accogliente rifugio di montagna con spa.",
-        "telefono": "+39 0165 876543",
-        "sito_web": "https://www.hotelmontagna.com"
+        "telefono": "333333333333",
+        "sito_web": "https://www"
     }
 ]
