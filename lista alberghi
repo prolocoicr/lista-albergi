@@ -1,29 +1,56 @@
 [
     {
         "id": 1,
-        "nome": "Hotel Paradiso",
-        "immagine": "https://www.teamsystem.com/magazine/contrib/uploads/tipologie-hotel.jpg",
-        "indirizzo": "Via Roma",
-        "descrizione": "Un hotel romantico con piscina e ristorante panoramico.",
-        "telefono": "333333333333",
-        "sito_web": "https://www"
+        "nome": "Fattoria il borgetto Hotel & Resort",
+        "immagine": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/347812971_1945303205826555_6008691991213851959_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=N20fQdJmkMkQ7kNvgH4ZeWz&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=AXwlgKuH8h3Phx6ECuX4cgM&oh=00_AYD4BLYVMwiu6e2wiJeJrQwCy2vFYSxrIyXvIZe_yuj4Tg&oe=6717EE79",
+        "indirizzo": "Loc. Capo Bianco, s.n",
+        "descrizione": "Hotel a 4 stelle, ideale per chi cerca una vacanza rilassante immersa nella natura, con la possibilità di esplorare le bellezze della Riserva Marina di Capo Rizzuto nelle vicinanze..",
+        "telefono": " 388 47 47 748",
+        "sito_web": "https://www.fattoriailborghetto.it/"
     },
     {
         "id": 2,
-        "nome": "Hotel Vista Mare",
-        "immagine": "https://www.teamsystem.com/magazine/contrib/uploads/tipologie-hotel.jpg",
-        "indirizzo": "Lungomare",
-        "descrizione": "Un hotel con vista sul mare, perfetto per famiglie.",
-        "telefono": "333333333333",
-        "sito_web": "https://www"
+        "nome": "Hotel Ristorante Baia Blu",
+        "immagine": "https://hotel-baia-blu-isola-di-capo-rizzuto.hotelmix.it/data/Photos/OriginalPhoto/16111/1611166/1611166028/Hotel-Baia-Blu-Isola-Di-Capo-Rizzuto-Exterior.JPEG",
+        "indirizzo": "Via Costa Azzurra, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Hotel a 3 stelle. La struttura è a pochi passi dalla spiaggia, con camere semplici e funzionali, molte delle quali con vista mare. Il ristorante propone piatti tipici della cucina calabrese, con specialità di pesce fresco.",
+        "telefono": " 0962 911579",
+        "sito_web": "https://www.hotelbaiablucaporizzuto.it/"
     },
     {
         "id": 3,
-        "nome": "Hotel Montagna",
-        "immagine": "https://www.teamsystem.com/magazine/contrib/uploads/tipologie-hotel.jpg",
-        "indirizzo": "Strada delle",
-        "descrizione": "Un accogliente rifugio di montagna con spa.",
-        "telefono": "333333333333",
-        "sito_web": "https://www"
-    }
+        "nome": "Park Hotel",
+        "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538546534.jpg?k=0d350a320cca3b7e659ac809891fca8e4946407f77d68fc613b7c7b7ac38b890&o=&hp=1",
+        "indirizzo": "Strada provinciale per, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Hotel a 3 stelle. La struttura dispone anche di un ristorante, una piscina all'aperto e offre servizi per famiglie e attività ricreative. Perfetto per gli amanti della natura e del relax.",
+        "telefono": " 380 762 8546",
+        "sito_web": "https://www.parkhotelcaporizzuto.it/"
+    },
+    {
+        "id": 4,
+        "nome": "La Rustica Hotel Ristorante Pizzeria",
+        "immagine": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/271146895_638532544158017_2359229200891664442_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-O0m-X_9PRQQ7kNvgG6ueAl&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=Asz41HgO-TMlG__VACKPWI4&oh=00_AYDgy3pv0OdnnNAOgzL7l6f3VgVpdsllffbljUcTHhaxEw&oe=67181270",
+        "indirizzo": "Via Capo Rizzuto, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "L'hotel dispone di camere confortevoli, mentre il ristorante propone un menù che unisce cucina calabrese tradizionale a piatti italiani, con un'attenzione particolare alla pizza cotta nel forno a legna. L'atmosfera è familiare e rilassata, ideale per chi cerca una sosta piacevole vicino alle bellezze naturali e storiche della zona.",
+        "telefono": "0962 793843",
+        "sito_web": "https://larusticahotel.it/"
+    },
+    {
+        "id": 5,
+        "nome": "Praia Art Resort",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPAzrIyCI3NfZ83NRUFzuZPt_F1YXLnuYqAbPJ3=s680-w680-h510",
+        "indirizzo": "Località Praialonga, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Hotel a 5 stelle. Offre un'esperienza di lusso in un ambiente naturale incontaminato, con camere raffinate e arredate con gusto artistico, spesso ispirate all'arte contemporanea. La struttura dispone di una piscina all'aperto, un ristorante che propone cucina locale e mediterranea, e accesso diretto a una spiaggia privata.",
+        "telefono": "320 759 2495",
+        "sito_web": "https://www.praiaartresort.com/"
+    },
+    {
+        "id": 6,
+        "nome": "Hotel Residence Florida Capo Rizzuto",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMeawk-1HLPvhiT9WfJ41I0ccWi97IqzGmMlq1l=s680-w680-h510",
+        "indirizzo": "Via Faro, 30, 88841 Capo Rizzuto KR",
+        "descrizione": "Hotel a 2 stelle, si trova a 50 metri dal mare di Capo Rizzuto. Offre servizi di qualsiasi genere:frigobar,cassaforte,aria condizionata, free wifi e molto altro ancora!.",
+        "telefono": " 388 352 7752",
+        "sito_web": "https://www.facebook.com/hotelfloridacr?skip_nax_wizard=true"
+    },
 ]
