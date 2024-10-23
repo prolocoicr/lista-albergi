@@ -79,5 +79,24 @@
         "descrizione": "Hotel a 3 stelle, In una splendida insenatura della costa Ionica della Calabria, nel cuore della riserva marina di Isola di Capo Rizzuto, racchiusa da una magnifica scogliera si accede dal Villaggio Marinella alla sua spiaggia privata ed attrezzata con sdraio, lettini ed ombrelloni. La sabbia dorata ed il mare cristallino soddisfano adulti appassionati di immersione e bambini che possono giocare nell’acqua che digrada dolcemente. Il nostro Ristorante con aria climatizzata vi porta la Calabria a tavola.",
         "telefono": "0962 799810",
         "sito_web": "https://www.villaggiomarinella.com/"
+    },
+    {
+        "id": 10,
+        "nome": "Villaggio capopiccolo",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipOPVz7ZGPwiFIBWWynFM1Wa--vLD0psloJl9Nkr=s680-w680-h510",
+        "indirizzo": "Località, Contrada Anastasi, 88841 Capopiccolo KR",
+        "descrizione": "Il villaggio Capopiccolo è stato organizzato per far vivere le sottilissime meravigliose sensazioni spirituali che possono provenire dai luoghi della Magna Grecia…”grande” perché creata da giovani eroi, simili a Dei, come Ulisse, che seppero e vollero radicarsi nel Crotonese. Per sempre. Conquistati dalle altere e bellissime donne bruzie, non da loro rapite o a loro vendute, ma che a loro spontaneamente si unirono per progetti di gloria. Solo Capopiccolo può trasmettere la gioia di entrare in sintonia con le sensazioni che si levano dalle pietre antiche, dai resti della gloria del passato, dalle colonne imbevute di cultura e storia dei secoli passati.",
+        "telefono": "0962 187 6663",
+        "sito_web": "http://www.capopiccolo.it/"
+    },
+    {
+        "id": 11,
+        "nome": "Villaggio Camping Marinella",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipM-ynh7Cx3iycIx0ROEzuWrg4_PKvXRLVopobK4=s680-w680-h510",
+        "indirizzo": " Loc Marinella Perseo n5, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Hotel a 3 stelle, In una splendida insenatura della costa Ionica della Calabria, nel cuore della riserva marina di Isola di Capo Rizzuto, racchiusa da una magnifica scogliera si accede dal Villaggio Marinella alla sua spiaggia privata ed attrezzata con sdraio, lettini ed ombrelloni. La sabbia dorata ed il mare cristallino soddisfano adulti appassionati di immersione e bambini che possono giocare nell’acqua che digrada dolcemente. Il nostro Ristorante con aria climatizzata vi porta la Calabria a tavola.",
+        "telefono": "0962 799810",
+        "sito_web": "https://www.villaggiomarinella.com/"
     }
+    
 ]
