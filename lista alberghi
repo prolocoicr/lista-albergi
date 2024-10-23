@@ -29,7 +29,7 @@
     {
         "id": 4,
         "nome": "La Rustica Hotel Ristorante Pizzeria",
-        "immagine": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/271146895_638532544158017_2359229200891664442_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-O0m-X_9PRQQ7kNvgG6ueAl&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=Asz41HgO-TMlG__VACKPWI4&oh=00_AYDgy3pv0OdnnNAOgzL7l6f3VgVpdsllffbljUcTHhaxEw&oe=67181270",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMZUrjFVTGedOzBnIY8pmUquQP7gEBa-yXcmRFy=s680-w680-h510",
         "indirizzo": "Via Capo Rizzuto, 88841 Isola di Capo Rizzuto KR",
         "descrizione": "L'hotel dispone di camere confortevoli, mentre il ristorante propone un menù che unisce cucina calabrese tradizionale a piatti italiani, con un'attenzione particolare alla pizza cotta nel forno a legna. L'atmosfera è familiare e rilassata, ideale per chi cerca una sosta piacevole vicino alle bellezze naturali e storiche della zona.",
         "telefono": "0962 793843",
@@ -46,11 +46,38 @@
     },
     {
         "id": 6,
-        "nome": "Hotel Residence Florida Capo Rizzuto",
-        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMeawk-1HLPvhiT9WfJ41I0ccWi97IqzGmMlq1l=s680-w680-h510",
-        "indirizzo": "Via Faro, 30, 88841 Capo Rizzuto KR",
-        "descrizione": "Hotel a 2 stelle, si trova a 50 metri dal mare di Capo Rizzuto. Offre servizi di qualsiasi genere: frigobar,cassaforte,aria condizionata, free wifi e molto altro ancora!",
+        "nome": "B&B La Favorita",
+        "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33829492.jpg?k=7d2a18de8dd1368cf824b02bfefdda6dc46c6655ca141f7b37552eed9143daeb&o=&hp=1",
+        "indirizzo": "via per capo rizzuto c/da Ilice, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "La posizione strategica permette di esplorare le meraviglie della costa calabrese, dalle spiagge cristalline ai tesori storici della zona. Dopo una giornata di avventure, puoi rilassarti nel giardino profumato o sorseggiare un drink sulla terrazza, godendo del tramonto. La cordialità dei proprietari rende ogni soggiorno speciale, facendo sentire ogni ospite come parte della famiglia. Scegli La Favorita per un'esperienza indimenticabile!",
+        "telefono": " 0962 792027",
+        "sito_web": "https://turistasviajeros.com/italy/isola-di-capo-rizzuto/bb-la-favorita/"
+    },
+    {
+        "id": 7,
+        "nome": "B&B Armenes",
+        "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/573783892.jpg?k=e92d556b4e90add6b89432b1272484ffb65a4fbe4a959e1e10004068e9abcbf5&o=&hp=1",
+        "indirizzo": "Via Capo Cimiti, 88841 Capo Rizzuto, Italia",
+        "descrizione": "Il B&B Armenes si trova a Capo Rizzuto, a 600 metri dalla spiaggia del Lungomare di Capo Rizzuto, a 1,2 km dalla spiaggia di Seleno e a 1,6 km dalla spiaggia di Capo Bianco. Ospitato in un edificio risalente al 2024, questo alloggio in famiglia dista 21 km dalle rovine di Capo Colonna e 16 km dal Castello di Le Castella.",
+        "telefono": "3471591027",
+        "sito_web": "https://www.booking.com/searchresults.it.html?aid=318615&label=cc1_Italian_Italy_IT_IT_161320640085-6wOSlSLPEBQ2t9WsybmYRwS701066172880%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&gclid=Cj0KCQjwveK4BhD4ARIsAKy6pMKfCP7ulANVrkZ4_c5SztrDPZ5rc0wbaUrsc0fOnpZGLr3h8JzgYZsaAk_nEALw_wcB&highlighted_hotels=12339693&redirected=1&city=-113165&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=f8f9764a654bb58decd12920a841bbe0"
+    },
+    {
+        "id": 8,
+        "nome": "B&B Capo Rizzuto Fronte Mare",
+        "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349426104.jpg?k=8993ab23ac8f3bb6b8721d68df8b6f391440f8387490483da62c54bc1ae51be5&o=&hp=1",
+        "indirizzo": "Via Capo Bianco Salita Piazzetta Capo Rizzuto, 88841 Capo Rizzuto, Italia ",
+        "descrizione": "Situato a Capo Rizzuto, a soli 300 metri dalla spiaggia del Lungomare di Capo Rizzuto, il B&B Capo Rizzuto fronte Mare offre una terrazza e il WiFi gratuito. Affacciata sul mare, la struttura dista meno di 1 km dalla spiaggia di Seleno e 1,8 km dalla spiaggia di Capo Bianco. Il bed and breakfast dispone di camere familiari",
         "telefono": " 388 352 7752",
         "sito_web": "https://www.facebook.com/hotelfloridacr?skip_nax_wizard=true"
+    },
+    {
+        "id": 9,
+        "nome": "Villaggio Camping Marinella",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipM-ynh7Cx3iycIx0ROEzuWrg4_PKvXRLVopobK4=s680-w680-h510",
+        "indirizzo": " Loc Marinella Perseo n5, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Hotel a 3 stelle, In una splendida insenatura della costa Ionica della Calabria, nel cuore della riserva marina di Isola di Capo Rizzuto, racchiusa da una magnifica scogliera si accede dal Villaggio Marinella alla sua spiaggia privata ed attrezzata con sdraio, lettini ed ombrelloni. La sabbia dorata ed il mare cristallino soddisfano adulti appassionati di immersione e bambini che possono giocare nell’acqua che digrada dolcemente. Il nostro Ristorante con aria climatizzata vi porta la Calabria a tavola.",
+        "telefono": "0962 799810",
+        "sito_web": "https://www.villaggiomarinella.com/"
     }
 ]
