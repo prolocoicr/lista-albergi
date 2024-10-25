@@ -97,6 +97,33 @@
         "descrizione": "Hotel a 4 stelle, Al centro dell’ area Marina Protetta di Capo Rizzuto, su di un mare limpido e cristallino dai fondali incredibilmente ricchi di flora e fauna sommersa; è armoniosamente inserito in un contesto di naturale bellezza. Il Villaggio sovrasta il “Capo Fratte Vecchie” su di una spettacolare ed ampia baia di sabbia fine, dal colore rossastro da cui prende il nome.",
         "telefono": "0962 1916760",
         "sito_web": "https://www.villaggiospiaggerosse.it//"
+    },
+    {
+        "id": 12,
+        "nome": "Hotel Village Kairos",
+        "immagine": "https://hotelkairos.it/gallery/DSC_0486_thumb.png",
+        "indirizzo": "Località Capo Piccolo, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Panorami mozzafiato e bellezza naturale. Appena messo piede nel Villaggio, sarai accolto da una vista mozzafiato sul mare e sulle bellezze naturali circostanti dell'Area Marina Protetta di Capo Rizzuto. La posizione privilegiata del Villaggio consente agli ospiti di immergersi nell'atmosfera serena del luogo, con il suono delle onde che si infrangono e il profumo dell'aria salata del mare che riempie l'aria.",
+        "telefono": "0962 939955",
+        "sito_web": "https://hotelkairos.it/"
+    },
+    {
+        "id": 13,
+        "nome": "TH Capo Rizzuto",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMx2NbX06tVG0Tb6DGfO_gO2m_t2CGMnm005WNv=s680-w680-h510",
+        "indirizzo": " Contrada Meolo, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "TH Capo Rizzuto si trova in una splendida posizione panoramica ed è adagiato sul promontorio della riserva naturale Marina di Capo Rizzuto, una vasta area protetta di grande interesse naturalistico, circondato da un parco di ulivi secolari perfettamente inserito nel paesaggio locale. Il Villaggio sorge lungo la costa ionica della Calabria, in prossimità delle affascinanti spiagge di Le Cannella e Punta Marinella. La zona costiera presenta incantevoli calette, scogliere e spiagge caratterizzate da sabbia finissima dalle suggestive tonalità giallo oro. Nelle vicinanze si trova anche il caratteristico borgo di Le Castella con il caratteristico castello aragonese.",
+        "telefono": " 0962 172 2338",
+        "sito_web": "https://www.thcaporizzuto.it/"
+    }
+    {
+        "id": 14,
+        "nome": "Hotel Villaggio S. Antonio",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNB4JhGd-kWiEDofmSpd2kx8L0IskEC-eUCo3PJ=s680-w680-h510",
+        "indirizzo": "88841 Anastasi I KR",
+        "descrizione": "Hotel a 4 stelle, L'Hotel Villaggio S. Antonio è situato nel cuore della splendida  Area Marina Protetta di Capo Rizzuto,  in un'area di 55.000 mq di macchia mediterranea con prati verdi e una varietà di alberi tra cui Eucalipto, Pini, Oleandri.Offre ai suoi ospiti una cucina nazionale con squisiti piatti tipici, con colazione, pranzo e cena a buffetA  700 metri  dal villaggio si estende un meraviglioso angolo di costa dell'Area  Marina  che ha la fortuna di trovarsi ancora nel suo stato primitivo, naturale ed incontaminato, la spiaggia, tutta di sabbia racchiusa da due maestose scogliere, attrezzata con ombrelloni e sdraio, è raggiungibile con il servizio navetta del villaggio.",
+        "telefono": " 0962 793739",
+        "sito_web": "https://www.santantoniohotel.com/en/"
     }
     
 ]
