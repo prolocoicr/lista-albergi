@@ -160,6 +160,33 @@
         "descrizione": " Questa struttura offre sistemazioni in bungalow e piazzole per tende, immerse in un contesto verde e tranquillo. Gli ospiti possono accedere a una spiaggia privata, attrezzata con lettini e ombrelloni, e approfittare di diverse attività ricreative, tra cui sport acquatici e animazione.",
         "telefono": "339 772 3735",
         "sito_web": "https://www.camping.it/it/calabria/scheda-2506.aspx"
+    },
+    {
+        "id": 19
+        "nome": "Village Camping Fico D'India",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipOGK5Mk0GTpM2KO8-Gw2aVakdDVFplL-2HDHHrb=s680-w680-h510",
+        "indirizzo": " Frazione di Le Cannella KR IT, Contrada Fratte, 88841 Isola di Capo Rizzuto",
+        "descrizione": "Situato a Ovile la Marina, a 800 metri dalla spiaggia di Le Cannella e a meno di 1 km dalla spiaggia di Curmo, il Camping Fico D'India offre interni recentemente ristrutturati, un giardino, la connessione WiFi gratuita e un parcheggio in loco. Questo campeggio offre sistemazioni climatizzate con patio. Il campeggio offre una vista sul giardino, un'area picnic e una reception aperta 24 ore su 24.",
+        "telefono": " 327 837 8511",
+        "sito_web": "https://www.villagecampingficodindia.it/"
+    },
+    {
+        "id": 20,
+        "nome": "Bed & breakfast Casa Elvira",
+        "immagine": "https://www.casaelvira.it/wp-content/uploads/2022/10/IMG_5716-1.jpg",
+        "indirizzo": " Via Fratte, 12, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Situato nel cuore della riserva marina con la sua vista panoramica a ridosso della spiaggia di ‘Curmo’ la ‘Casa Elvira’ vanta una posizione unica ed esclusiva per il suo contesto naturalistico e ambientale. Fauna e flora ‘marina e terrestre’ qui si incontrano tra gabbiani, gruccioni, tartarughe marine e delfini.",
+        "telefono": " 320 721 6571",
+        "sito_web": "https://www.casaelvira.it/"
+    },
+    {
+        "id": 21,
+        "nome": "Camping San Paolo",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNFbeaEGHFeoL96n4fdcZXqfBfq0Blj-RL8BSvy=s680-w680-h510",
+        "indirizzo": " Loc. Anastasi, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Camping Village San Paolo di Isola di Capo Rizzuto (KR) sorge a 40 metri a picco sul mare, nel Parco Marino di Capo Rizzuto (Crotone). L’area, completamente alberata, affaccia su un’ampia e agevole spiaggia di sabbia rossa finissima. Il mare turchese è caratterizzato da fondali bassi fino a 50 metri dalla riva, è perciò adatto anche ai bambini che possono bagnarsi senza alcun pericolo.",
+        "telefono": "339 132 1563",
+        "sito_web": "https://www.campingsanpaolo.com/"
     }
     
 ]
