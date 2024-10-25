@@ -187,6 +187,15 @@
         "descrizione": "Camping Village San Paolo di Isola di Capo Rizzuto (KR) sorge a 40 metri a picco sul mare, nel Parco Marino di Capo Rizzuto (Crotone). L’area, completamente alberata, affaccia su un’ampia e agevole spiaggia di sabbia rossa finissima. Il mare turchese è caratterizzato da fondali bassi fino a 50 metri dalla riva, è perciò adatto anche ai bambini che possono bagnarsi senza alcun pericolo.",
         "telefono": "339 132 1563",
         "sito_web": "https://www.campingsanpaolo.com/"
+    },
+    {
+        "id": 22,
+        "nome": "Camping Residence Il Faro",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNkJvV99WsJjwDmtbWOmH_6yhlUMR4q7WnDltKg=s680-w680-h510",
+        "indirizzo": "Via Torre Nuova, 1, 88841 Capo Rizzuto KR",
+        "descrizione": "Immaginate un luogo dove albe e tramonti catturano le vostre emozioni; immaginate un luogo dove la fresca brezza marina vi ristora negli afosi pomeriggi estivi; immaginate un luogo dove l’azzurro del cielo si fonde con le cangianti sfumature del mare in un gioco di luci e colori da sogno. Le vostre vacanze trascorreranno piacevoli e rilassanti, un soggiorno che vi sembrerà durare troppo poco, un soggiorno che manterrete sempre nei Vostri ricordi. Il Camping Residence si trova alla punta estrema di Capo Rizzuto, paesino della costa Jonica calabrese, località balneare rinomata per le spiagge di sabbia finissima, acque limpide e cristalline e fondali suggestivi. La struttura è composta di Bilocali, Villette in legno e Piazzole delimitate con ombreggiatura artificiale e naturale.,
+        "telefono": "328 833 0514",
+        "sito_web": "https://www.ilfaro-camping.it/"
     }
     
 ]
