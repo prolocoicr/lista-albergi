@@ -124,6 +124,42 @@
         "descrizione": "Hotel a 4 stelle, L'Hotel Villaggio S. Antonio è situato nel cuore della splendida  Area Marina Protetta di Capo Rizzuto, in un'area di 55.000 mq di macchia mediterranea con prati verdi e una varietà di alberi tra cui Eucalipto, Pini, Oleandri.Offre ai suoi ospiti una cucina nazionale con squisiti piatti tipici, con colazione, pranzo e cena a buffetA  700 metri  dal villaggio si estende un meraviglioso angolo di costa dell'Area  Marina  che ha la fortuna di trovarsi ancora nel suo stato primitivo, naturale ed incontaminato, la spiaggia, tutta di sabbia racchiusa da due maestose scogliere, attrezzata con ombrelloni e sdraio, è raggiungibile con il servizio navetta del villaggio.",
         "telefono": " 0962 793739",
         "sito_web": "https://www.santantoniohotel.com/en/"
+    },
+    {
+        "id": 15,
+        "nome": "Camping Villaggio le Mimose",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMVWTIe5grYZykY9mndFFh3wA9UonUibmaKVk1Z=s680-w680-h510",
+        "indirizzo": "88841 Anastasi I KR",
+        "descrizione": "Hotel a 4 stelle, L'Hotel Villaggio S. Antonio è situato nel cuore della splendida  Area Marina Protetta di Capo Rizzuto, in un'area di 55.000 mq di macchia mediterranea con prati verdi e una varietà di alberi tra cui Eucalipto, Pini, Oleandri.Offre ai suoi ospiti una cucina nazionale con squisiti piatti tipici, con colazione, pranzo e cena a buffetA  700 metri  dal villaggio si estende un meraviglioso angolo di costa dell'Area  Marina  che ha la fortuna di trovarsi ancora nel suo stato primitivo, naturale ed incontaminato, la spiaggia, tutta di sabbia racchiusa da due maestose scogliere, attrezzata con ombrelloni e sdraio, è raggiungibile con il servizio navetta del villaggio.",
+        "telefono": " 0962 793739",
+        "sito_web": "https://www.santantoniohotel.com/en/"
+    },
+    {
+        "id": 16,
+        "nome": "Hotel Villaggio S. Antonio",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNB4JhGd-kWiEDofmSpd2kx8L0IskEC-eUCo3PJ=s680-w680-h510",
+        "indirizzo": "88841 Marinella KR",
+        "descrizione": "Il Villaggio Camping Marinella si trova a Isola di Capo Rizzuto, immerso in una splendida insenatura della costa ionica calabrese. Questa struttura a 3 stelle offre accesso diretto a una spiaggia privata, attrezzata con lettini e ombrelloni, ideale per famiglie e appassionati di immersioni. Il villaggio è circondato da una magnifica scogliera e offre un ristorante con aria condizionata, dove gli ospiti possono gustare piatti tipici della cucina calabrese. Gli alloggi, confortevoli e ben arredati, sono perfetti per una vacanza all'insegna del relax e della natura. Con una posizione privilegiata, il Villaggio Camping Marinella rappresenta una meta ideale per chi cerca avventura e tranquillità.",
+        "telefono": " 340 685 8332",
+        "sito_web": "https://www.camping.it/it/calabria/scheda-2509.aspx"
+    },
+    {
+        "id": 17,
+        "nome": "Villaggio Santa Cristina",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipO8NNPs7qiQe-GAK-vBE1JBigWmiQiTt-mxCXcH=s680-w680-h510",
+        "indirizzo": "SP46, 88841 Anastasi II KR",
+        "descrizione": "l Villaggio Santa Cristina, situato a Isola di Capo Rizzuto, è una struttura accogliente e immersa nella natura, ideale per famiglie e gruppi. Offre bungalow e appartamenti ben arredati, dotati di tutti i comfort necessari per una vacanza rilassante. Gli ospiti possono godere di una piscina, accesso diretto a una spiaggia privata e una varietà di attività ricreative, tra cui sport acquatici e animazione per bambini. Il ristorante del villaggio propone piatti della tradizione calabrese, utilizzando ingredienti freschi e locali.",
+        "telefono": " 349 448 4266",
+        "sito_web": "https://villaggio-santa-cristina-isola-di-capo-rizzuto.hotelmix.it/"
+    },
+    {
+        "id": 18,
+        "nome": "Camping Villaggio 2 Mari",
+        "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208489070.jpg?k=d8238193940f9d9ccc666ca0fe13c63aee376e10001ed383881400dae57402a7&o=&hp=1",
+        "indirizzo": " Loc, Contrada Anastasi, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": " Questa struttura offre sistemazioni in bungalow e piazzole per tende, immerse in un contesto verde e tranquillo. Gli ospiti possono accedere a una spiaggia privata, attrezzata con lettini e ombrelloni, e approfittare di diverse attività ricreative, tra cui sport acquatici e animazione.",
+        "telefono": "339 772 3735",
+        "sito_web": "https://www.camping.it/it/calabria/scheda-2506.aspx"
     }
     
 ]
