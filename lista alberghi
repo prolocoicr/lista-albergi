@@ -268,24 +268,6 @@
         "descrizione": "Hotel 3 stelle. L’Hotel L’Orizzonte: Un’oasi di comfort e relax. Situato a soli 3 km dalle rive del mare e a 5 km dal suggestivo centro storico di Le Castella, l’Hotel L’Orizzonte offre il perfetto equilibrio tra accessibilità e tranquillità. Le nostre camere, con vista mozzafiato sul mare Ionio, sono l’ideale rifugio dopo una giornata trascorsa a esplorare le bellezze della Calabria.Immagina di trascorrere le calde giornate estive rilassandoti a bordo piscina, circondato dalla bellezza della natura calabrese. La piscina a 3km dal nostro hotel è un’oasi di tranquillità dove potrai rinfrescarti con una nuotata rigenerante o semplicemente prendere il sole su comodi lettini. Per chi preferisce il mare, dalla piscina potrai spostarti ed usufruire del nostro servizio spiaggia dove offre tutto ciò di cui hai bisogno per goderti al meglio le bellissime spiagge calabresi.",
         "telefono": " 328 200 3289",
         "sito_web": "https://hotellorizzonte.it/"
-    },
-    {
-        "id": 31,
-        "nome": "Residence Poseidon",
-        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPwJOXpwst-j7b2ggJgVij7J4EZ9WpiR9qiCLZD=s680-w680-h510",
-        "indirizzo": " Contrada Campolongo, 88841 Le Castella KR",
-        "descrizione": "L'Hotel Residence Poseidon a Le Castella è una struttura accogliente situata vicino al mare, ideale per famiglie e coppie. Gli appartamenti, arredati con gusto, offrono comfort moderni e angoli cottura attrezzati, permettendo agli ospiti di godere di una vacanza autonoma. Il residence è circondato da giardini curati e dispone di una piscina, spazi relax e un bar per momenti di convivialità. La posizione strategica consente di esplorare facilmente le bellezze della Calabria, inclusa la famosa Torre di Le Castella. Il servizio è attento e disponibile, contribuendo a un soggiorno piacevole e rilassante.",
-        "telefono": "340 685 4438",
-        "sito_web": "https://www.trivago.it/it/oar/hotel-residence-poseidon-club-le-castella?search=100-6511146"
-    },
-    {
-        "id": 32,
-        "nome": "iGV Club Le Castella",
-        "immagine": "https://lh3.googleusercontent.com/proxy/9THD-re52_Ahmxy8dBurO3jFWqSvBp3JazKmcQ1SXTpqs7knZ_ut0hbCqMGGnFWFHJuI_Vr9kfoSPKI_suDAlOQh5W8uB68Ed04xtLCJKdIknmrrehsKiJ9dZ3kKr6DYjZx4Oyu-fU2xpv-YTbFLWVSAdGKlt08=s680-w680-h510",
-        "indirizzo": "Località Punta Le Castella, 88076, Capo Rizzuto KR",
-        "descrizione": "Splendida posizione panoramica, ampia scelta di attività sportive, tutti i servizi per i bambini e ragazzi, biberoneria perfettamente attrezzata, servizio medico e pediatrico",
-        "telefono": "0962 795054",
-        "sito_web": "https://www.hotellecastella.it/"
     }
     
 ]
