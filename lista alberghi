@@ -3,7 +3,7 @@
         "id": 1,
         "nome": "Fattoria il Borgetto Hotel & Resort",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNCc0mi_9kXvcn3BRSYdpnu1jT27_i9w-HdDeGT=s680-w680-h510",
-        "indirizzo": "Loc. Capo Bianco, s.n",
+        "indirizzo": "Loc. Capo Bianco, s.n.c.",
         "descrizione": "Hotel a 4 stelle, ideale per chi cerca una vacanza rilassante immersa nella natura, con la possibilità di esplorare le bellezze della Riserva Marina di Capo Rizzuto nelle vicinanze.",
         "telefono": "3884747748",
         "sito_web": "https://www.fattoriailborghetto.it/"
@@ -136,15 +136,6 @@
     },
     {
         "id": 16,
-        "nome": "Villaggio Camping Marinella",
-        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNB4JhGd-kWiEDofmSpd2kx8L0IskEC-eUCo3PJ=s680-w680-h510",
-        "indirizzo": "88841 Marinella KR",
-        "descrizione": "Il Villaggio Camping Marinella si trova a Isola di Capo Rizzuto, immerso in una splendida insenatura della costa ionica calabrese. Questa struttura a 3 stelle offre accesso diretto a una spiaggia privata, attrezzata con lettini e ombrelloni, ideale per famiglie e appassionati di immersioni. Il villaggio è circondato da una magnifica scogliera e offre un ristorante con aria condizionata, dove gli ospiti possono gustare piatti tipici della cucina calabrese. Gli alloggi, confortevoli e ben arredati, sono perfetti per una vacanza all'insegna del relax e della natura. Con una posizione privilegiata, il Villaggio Camping Marinella rappresenta una meta ideale per chi cerca avventura e tranquillità.",
-        "telefono": " 340 685 8332",
-        "sito_web": "https://www.camping.it/it/calabria/scheda-2509.aspx"
-    },
-    {
-        "id": 17,
         "nome": "Villaggio Santa Cristina",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipO8NNPs7qiQe-GAK-vBE1JBigWmiQiTt-mxCXcH=s680-w680-h510",
         "indirizzo": "SP46, 88841 Anastasi II KR",
@@ -153,7 +144,7 @@
         "sito_web": "https://villaggio-santa-cristina-isola-di-capo-rizzuto.hotelmix.it/"
     },
     {
-        "id": 18,
+        "id": 17,
         "nome": "Camping Villaggio 2 Mari",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipPqIPyTMobfGDMoGePs0urLamvnm4AsshrESHIJ=s680-w680-h510",
         "indirizzo": " Loc, Contrada Anastasi, 88841 Isola di Capo Rizzuto KR",
@@ -162,7 +153,7 @@
         "sito_web": "https://www.camping.it/it/calabria/scheda-2506.aspx"
     },
     {
-        "id": 19,
+        "id": 18,
         "nome": "Village Camping Fico D'India",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipOGK5Mk0GTpM2KO8-Gw2aVakdDVFplL-2HDHHrb=s680-w680-h510",
         "indirizzo": " Frazione di Le Cannella KR IT, Contrada Fratte, 88841 Isola di Capo Rizzuto",
@@ -171,7 +162,7 @@
         "sito_web": "https://www.villagecampingficodindia.it/"
     },
     {
-        "id": 20,
+        "id": 19,
         "nome": "Bed & breakfast Casa Elvira",
         "immagine": "https://www.casaelvira.it/wp-content/uploads/2022/10/IMG_5716-1.jpg",
         "indirizzo": " Via Fratte, 12, 88841 Isola di Capo Rizzuto KR",
@@ -180,7 +171,7 @@
         "sito_web": "https://www.casaelvira.it/"
     },
     {
-        "id": 21,
+        "id": 20,
         "nome": "Camping San Paolo",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNFbeaEGHFeoL96n4fdcZXqfBfq0Blj-RL8BSvy=s680-w680-h510",
         "indirizzo": " Loc. Anastasi, 88841 Isola di Capo Rizzuto KR",
@@ -189,7 +180,7 @@
         "sito_web": "https://www.campingsanpaolo.com/"
     },
     {
-        "id": 22,
+        "id": 21,
         "nome": "Camping Residence Il Faro",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNkJvV99WsJjwDmtbWOmH_6yhlUMR4q7WnDltKg=s680-w680-h510",
         "indirizzo": "Via Torre Nuova, 1, 88841 Capo Rizzuto KR",
@@ -198,7 +189,7 @@
         "sito_web": "https://www.ilfaro-camping.it/"
     },
     {
-        "id": 23,
+        "id": 22,
         "nome": "Villaggio Seleno",
         "immagine": "https://villaggio-seleno-isola-di-capo-rizzuto.hotelmix.it/data/Photos/1920x1080/8800/880071/880071521/Villaggio-Seleno-Isola-Di-Capo-Rizzuto-Exterior.JPEG",
         "indirizzo": " Unnamed Road,88841, Capopiccolo KR",
@@ -207,7 +198,7 @@
         "sito_web": "https://villaggio-seleno-isola-di-capo-rizzuto.hotelmix.it/"
     },
     {
-        "id": 24,
+        "id": 23,
         "nome": "Residence Poseidon Villaggio",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipMSxBaR5QDbZuW2sMuy4Bs3GWpc5GcYp5Fx6G3A=s680-w680-h510",
         "indirizzo": " Località Capo Piccolo, 88841 Isola di Capo Rizzuto KR",
@@ -216,7 +207,7 @@
         "sito_web": "https://www.residenceposeidonvillaggio.com/"
     },
     {
-        "id": 25,
+        "id": 24,
         "nome": "Hotel Il Corsaro",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipMvtAyz1VibesGE_cLhsVcLW_LN9qJfCVjqRUB7=s680-w680-h510",
         "indirizzo": " Via Volandrino, 88841 Le Castella KR",
@@ -225,7 +216,7 @@
         "sito_web": "https://hotelilcorsaro.it/"
     },
     {
-        "id": 26,
+        "id": 25,
         "nome": "Villa Aurora",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNW62A_SRO1-jLg1GLFcZfOTUJWGVY7QIMUbfOK=s680-w680-h510",
         "indirizzo": "Via Volandrino - 88841 - Le Castella di Isola di Capo Rizzuto",
@@ -234,7 +225,7 @@
         "sito_web": "http://www.hotelvillaaurora.it/"
     },
     {
-        "id": 27,
+        "id": 26,
         "nome": "Bilha Hotel",
         "immagine": "https://bilha-hotel-le-castella.hotelmix.it/data/Photos/1920x1080/7108/710836/710836693/B-B-Bilha-Hotel-Le-Castella-Exterior.JPEG",
         "indirizzo": " Via Del Lupo, 88841 Isola di Capo Rizzuto KR",
