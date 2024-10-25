@@ -196,6 +196,51 @@
         "descrizione": "Immaginate un luogo dove albe e tramonti catturano le vostre emozioni; immaginate un luogo dove la fresca brezza marina vi ristora negli afosi pomeriggi estivi; immaginate un luogo dove l’azzurro del cielo si fonde con le cangianti sfumature del mare in un gioco di luci e colori da sogno. Le vostre vacanze trascorreranno piacevoli e rilassanti, un soggiorno che vi sembrerà durare troppo poco, un soggiorno che manterrete sempre nei Vostri ricordi. Il Camping Residence si trova alla punta estrema di Capo Rizzuto, paesino della costa Jonica calabrese, località balneare rinomata per le spiagge di sabbia finissima, acque limpide e cristalline e fondali suggestivi. La struttura è composta di Bilocali, Villette in legno e Piazzole delimitate con ombreggiatura artificiale e naturale.",
         "telefono": "328 833 0514",
         "sito_web": "https://www.ilfaro-camping.it/"
+    },
+    {
+        "id": 23,
+        "nome": "Villaggio Seleno",
+        "immagine": "https://villaggio-seleno-isola-di-capo-rizzuto.hotelmix.it/data/Photos/1920x1080/8800/880071/880071521/Villaggio-Seleno-Isola-Di-Capo-Rizzuto-Exterior.JPEG",
+        "indirizzo": " Unnamed Road,88841, Capopiccolo KR",
+        "descrizione": "Il Villaggio spiagge rosse si trova a 4 km di distanza e la Fortezza Aragonese può essere raggiunto in 15 minuti in macchina. La sua posizione dell'hotel ti permetterà di essere a 4 km di distanza dal Santuario della Madonna Greca.Le camere offrono un patio e una zona spogliatoio, con un divano per il comfort degli ospiti.",
+        "telefono": "3276674555",
+        "sito_web": "https://villaggio-seleno-isola-di-capo-rizzuto.hotelmix.it/"
+    },
+    {
+        "id": 24,
+        "nome": "Residence Poseidon Villaggio",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMSxBaR5QDbZuW2sMuy4Bs3GWpc5GcYp5Fx6G3A=s680-w680-h510",
+        "indirizzo": " Località Capo Piccolo, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Il Residence Poseidon si trova a Isola di Capo Rizzuto, in Calabria, ed è un complesso turistico ideale per famiglie e gruppi.Le unità abitative, che spaziano da appartamenti a ville, sono arredate in modo confortevole e dotate di tutti i comfort moderni. Gli ospiti possono usufruire di diverse strutture, tra cui piscine, aree giochi per bambini e spazi comuni.",
+        "telefono": " 329 151 4923",
+        "sito_web": "https://www.residenceposeidonvillaggio.com/"
+    },
+    {
+        "id": 25,
+        "nome": "Hotel Il Corsaro",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMvtAyz1VibesGE_cLhsVcLW_LN9qJfCVjqRUB7=s680-w680-h510",
+        "indirizzo": " Via Volandrino, 88841 Le Castella KR",
+        "descrizione": "Hoel 3 stelle. L'hotel Ristorante Il Corsaro, vanta oramai una esperienza pluridecennale, grazie alla sua struttura soddisfa le esigenze della clientela con innumerevoli servizi e comodità. Piscina, discoteca, bar, ristorante, parcheggio, servizio spiaggia, internet wifi, ampio giardino, ristorante dehor, Wellness&SPA di recentissima costruzione ed tanto altro.",
+        "telefono": "0962 795453",
+        "sito_web": "https://hotelilcorsaro.it/"
+    },
+    {
+        "id": 26,
+        "nome": "Villa Aurora",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNW62A_SRO1-jLg1GLFcZfOTUJWGVY7QIMUbfOK=s680-w680-h510",
+        "indirizzo": "Via Volandrino - 88841 - Le Castella di Isola di Capo Rizzuto",
+        "descrizione": "Hoel 4 stelle. Sito nel borgo marinaro di Le Castella, l'hotel Villa Aurora è un grazioso albergo appena ristrutturato con camere elegantemente arredate e dotate di tutti i comfort, circondato da 1500 metri quadri di giardino. Un ambiente piacevolissimo in cui Riccardo e Aurora offrono agli ospiti il calore e l'accoglienza di una gestione a conduzione familiare. Il ristorante dell'hotel, disponibile anche per la sola ristorazione, pone particolare attenzione a una cucina tipicamente legata alle tradizioni e alle specialità del territorio e a un servizio attento e cortese. La struttura che sista solo 200 metri dal mare dispone anche di un Centro Diving con escursioni guidate nell'Area Marina Protetta "Capo Rizzuto".",
+        "telefono": "0962 795137",
+        "sito_web": "http://www.hotelvillaaurora.it/"
+    },
+    {
+        "id": 27,
+        "nome": "Bilha Hotel",
+        "immagine": "https://bilha-hotel-le-castella.hotelmix.it/data/Photos/1920x1080/7108/710836/710836693/B-B-Bilha-Hotel-Le-Castella-Exterior.JPEG",
+        "indirizzo": " Via Del Lupo, 88841 Isola di Capo Rizzuto KR",
+        "descrizione": "Hoel 3 stelle. L’hotel Bilha Hotel Le Castella, si trova a 12 minuti a piedi dalla Fortezza Aragonese, offre il Wi-Fi in tutta la struttura e un parcheggio privato gratuito nella struttura. L'hotel offre alloggio con 17 camere situate in una zona protetta delle Castella. Posizione. Questa struttura dista 5 minuti di cammino dal centro delle Castella. La spiaggia privata delle Castella è a una distanza di appena 5 minuti a piedi.",
+        "telefono": "329 551 6662",
+        "sito_web": "https://bilha-hotel-le-castella.hotelmix.it/"
     }
     
 ]
