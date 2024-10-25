@@ -199,6 +199,15 @@
     },
     {
         "id": 23,
+        "nome": "Villaggio L'Oasi",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipM-M8z5aWhwqtWfuLEDC9AJ0fTVHxC_INuIItqH=s680-w680-h510",
+        "indirizzo": " 88841 Fratte I KR",
+        "descrizione": "Immerso nel cuore di una folta macchia mediterranea, tra il profumo della vegetazione e l’odore della brezza marina, il villaggio L’Oasi si affaccia direttamente sul mare, ideale per  soprattutto per famiglie, ma anche per tutti coloro che desiderano trascorrere le proprie vacanze in mezzo alla natura, con un bellissimo mare e lontano dalle spiagge affollate.",
+        "telefono": " 0962 791628",
+        "sito_web": "https://www.villaggiooasi.it/"
+    },
+    {
+        "id": 24,
         "nome": "Residence Poseidon Villaggio",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipMSxBaR5QDbZuW2sMuy4Bs3GWpc5GcYp5Fx6G3A=s680-w680-h510",
         "indirizzo": " Località Capo Piccolo, 88841 Isola di Capo Rizzuto KR",
@@ -207,7 +216,7 @@
         "sito_web": "https://www.residenceposeidonvillaggio.com/"
     },
     {
-        "id": 24,
+        "id": 25,
         "nome": "Hotel Il Corsaro",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipMvtAyz1VibesGE_cLhsVcLW_LN9qJfCVjqRUB7=s680-w680-h510",
         "indirizzo": " Via Volandrino, 88841 Le Castella KR",
@@ -216,7 +225,7 @@
         "sito_web": "https://hotelilcorsaro.it/"
     },
     {
-        "id": 25,
+        "id": 26,
         "nome": "Villa Aurora",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNW62A_SRO1-jLg1GLFcZfOTUJWGVY7QIMUbfOK=s680-w680-h510",
         "indirizzo": "Via Volandrino - 88841 - Le Castella di Isola di Capo Rizzuto",
@@ -225,13 +234,58 @@
         "sito_web": "http://www.hotelvillaaurora.it/"
     },
     {
-        "id": 26,
+        "id": 27,
         "nome": "Bilha Hotel",
         "immagine": "https://bilha-hotel-le-castella.hotelmix.it/data/Photos/1920x1080/7108/710836/710836693/B-B-Bilha-Hotel-Le-Castella-Exterior.JPEG",
         "indirizzo": " Via Del Lupo, 88841 Isola di Capo Rizzuto KR",
         "descrizione": "Hoel 3 stelle. L’hotel Bilha Hotel Le Castella, si trova a 12 minuti a piedi dalla Fortezza Aragonese, offre il Wi-Fi in tutta la struttura e un parcheggio privato gratuito nella struttura. L'hotel offre alloggio con 17 camere situate in una zona protetta delle Castella. Posizione. Questa struttura dista 5 minuti di cammino dal centro delle Castella. La spiaggia privata delle Castella è a una distanza di appena 5 minuti a piedi.",
         "telefono": "329 551 6662",
         "sito_web": "https://bilha-hotel-le-castella.hotelmix.it/"
+    },
+    {
+        "id": 28,
+        "nome": "Residence Poseidon",
+        "immagine": "hhttps://lh3.googleusercontent.com/p/AF1QipN8jIX8Wk5qP8IQP1-PqcfJqp6avUSGQ6-1zIZn=s680-w680-h510",
+        "indirizzo": "Strada Comunale, 88841 Le Castella KR",
+        "descrizione": "Il Residence Poseidon a Le Castella è una struttura moderna e accogliente situata vicino al mare, ideale per una vacanza all'insegna del relax.La piscina esterna e gli spazi verdi offrono opportunità di svago, mentre la posizione strategica permette di esplorare le bellezze naturali e culturali della zona, inclusa la famosa Castello Aragonese. Il residence è perfetto per famiglie e coppie. Un'ottima scelta per chi cerca una vacanza serena in Calabria.",
+        "telefono": " 340 685 4438",
+        "sito_web": "https://www.trivago.it/it/oar/hotel-residence-poseidon-club-le-castella?search=100-6511146/"
+    },
+    {
+        "id": 29,
+        "nome": "TH Le Castella - Baia degli Dei",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipOaRvYtsU0mQWoZbfO6qmHACvib8wK_RQrIVOj9=s680-w680-h510",
+        "indirizzo": " Strada Comunale Annunziata, 5, 88841 Le Castella KR",
+        "descrizione": "Hoel 4 stelle. Il Villaggio si trova in una splendida posizione panoramica, a dominio della baia e di fronte all’antica fortezza aragonese che sembra quasi sospesa su un mare limpido. Un vero e proprio luogo da fiaba che sorge su una terrazza naturale e si affaccia su uno dei tratti più suggestivi della costa ionica. È circondato da un grande giardino e dalla rigogliosa vegetazione della macchia mediterranea. Meta ideale per chi ama il mare, lo sport e la giusta dose di relax.",
+        "telefono": "0962 795235",
+        "sito_web": "https://www.thlecastella.it/"
+    },
+    {
+        "id": 30,
+        "nome": "Le Castella Resort & Beach",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipM3OMb6aH4OvUEBIEu8YdGWaSSVEI6lDL4jSJvA=s680-w680-h510",
+        "indirizzo": "88841 Santa Domenica KR",
+        "descrizione": "Fatti coccolare dalle nostre accoglienti residenze, dove ti sentirai completamente a tuo agio e in armonia con l’ambiente circostante. Un autentico angolo di paradiso a breve distanza dalla spiaggia e dalla piscina.",
+        "telefono": "329 465 9560",
+        "sito_web": "https://www.lecastellaresortebeach.it/"
+    },
+    {
+        "id": 31,
+        "nome": "iGV Club Le Castella",
+        "immagine": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271244%27%20height%3D%271024%27%20viewBox%3D%270%200%201244%201024%27%3E%3Crect%20width%3D%271244%27%20height%3D%271024%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "indirizzo": "Località Punta Le Castella, 88076, Capo Rizzuto KR",
+        "descrizione": "Splendida posizione panoramica, ampia scelta di attività sportive, tutti i servizi per i bambini e ragazzi, biberoneria perfettamente attrezzata, servizio medico e pediatrico",
+        "telefono": "0962 795054",
+        "sito_web": "https://www.hotellecastella.it/"
+    },
+    {
+        "id": 32,
+        "nome": "Hotel Ristorante L'Orizzonte",
+        "immagine": "https://media-cdn.tripadvisor.com/media/photo-s/0f/b5/d1/b2/facciata.jpg",
+        "indirizzo": " Contrada Campolongo, 88841 Le Castella KR",
+        "descrizione": "Hoel 3 stelle. L’Hotel L’Orizzonte: Un’oasi di comfort e relax. Situato a soli 3 km dalle rive del mare e a 5 km dal suggestivo centro storico di Le Castella, l’Hotel L’Orizzonte offre il perfetto equilibrio tra accessibilità e tranquillità. Le nostre camere, con vista mozzafiato sul mare Ionio, sono l’ideale rifugio dopo una giornata trascorsa a esplorare le bellezze della Calabria.Immagina di trascorrere le calde giornate estive rilassandoti a bordo piscina, circondato dalla bellezza della natura calabrese. La piscina a 3km dal nostro hotel è un’oasi di tranquillità dove potrai rinfrescarti con una nuotata rigenerante o semplicemente prendere il sole su comodi lettini. Per chi preferisce il mare, dalla piscina potrai spostarti ed usufruire del nostro servizio spiaggia dove offre tutto ciò di cui hai bisogno per goderti al meglio le bellissime spiagge calabresi.",
+        "telefono": " 328 200 3289",
+        "sito_web": "https://hotellorizzonte.it/"
     }
     
 ]
