@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "nome": "Fattoria il borgetto Hotel & Resort",
+        "nome": "Fattoria il Borgetto Hotel & Resort",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipNCc0mi_9kXvcn3BRSYdpnu1jT27_i9w-HdDeGT=s680-w680-h510",
         "indirizzo": "Loc. Capo Bianco, s.n",
-        "descrizione": "Hotel a 4 stelle, ideale per chi cerca una vacanza rilassante immersa nella natura, con la possibilità di esplorare le bellezze della Riserva Marina di Capo Rizzuto nelle vicinanze..",
-        "telefono": " 388 47 47 748",
+        "descrizione": "Hotel a 4 stelle, ideale per chi cerca una vacanza rilassante immersa nella natura, con la possibilità di esplorare le bellezze della Riserva Marina di Capo Rizzuto nelle vicinanze.",
+        "telefono": "3884747748",
         "sito_web": "https://www.fattoriailborghetto.it/"
     },
     {
@@ -14,7 +14,7 @@
         "immagine": "https://hotel-baia-blu-isola-di-capo-rizzuto.hotelmix.it/data/Photos/OriginalPhoto/16111/1611166/1611166028/Hotel-Baia-Blu-Isola-Di-Capo-Rizzuto-Exterior.JPEG",
         "indirizzo": "Via Costa Azzurra, 88841 Isola di Capo Rizzuto KR",
         "descrizione": "Hotel a 3 stelle. La struttura è a pochi passi dalla spiaggia, con camere semplici e funzionali, molte delle quali con vista mare. Il ristorante propone piatti tipici della cucina calabrese, con specialità di pesce fresco.",
-        "telefono": " 0962 911579",
+        "telefono": "0962911579",
         "sito_web": "https://www.hotelbaiablucaporizzuto.it/"
     },
     {
@@ -23,7 +23,7 @@
         "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538546534.jpg?k=0d350a320cca3b7e659ac809891fca8e4946407f77d68fc613b7c7b7ac38b890&o=&hp=1",
         "indirizzo": "Strada provinciale per, 88841 Isola di Capo Rizzuto KR",
         "descrizione": "Hotel a 3 stelle. La struttura dispone anche di un ristorante, una piscina all'aperto e offre servizi per famiglie e attività ricreative. Perfetto per gli amanti della natura e del relax.",
-        "telefono": " 380 762 8546",
+        "telefono": "3807628546",
         "sito_web": "https://www.parkhotelcaporizzuto.it/"
     },
     {
@@ -211,8 +211,8 @@
         "nome": "Residence Poseidon Villaggio",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipMSxBaR5QDbZuW2sMuy4Bs3GWpc5GcYp5Fx6G3A=s680-w680-h510",
         "indirizzo": " Località Capo Piccolo, 88841 Isola di Capo Rizzuto KR",
-        "descrizione": "Il Residence Poseidon si trova a Isola di Capo Rizzuto, in Calabria, ed è un complesso turistico ideale per famiglie e gruppi.Le unità abitative, che spaziano da appartamenti a ville, sono arredate in modo confortevole e dotate di tutti i comfort moderni. Gli ospiti possono usufruire di diverse strutture, tra cui piscine, aree giochi per bambini e spazi comuni.",
-        "telefono": " 329 151 4923",
+        "descrizione": "Il Residence Poseidon si trova a Isola di Capo Rizzuto, in Calabria, ed è un complesso turistico ideale per famiglie e gruppi. Le unità abitative, che spaziano da appartamenti a ville, sono arredate in modo confortevole e dotate di tutti i comfort moderni. Gli ospiti possono usufruire di diverse strutture, tra cui piscine, aree giochi per bambini e spazi comuni.",
+        "telefono": "329 151 4923",
         "sito_web": "https://www.residenceposeidonvillaggio.com/"
     },
     {
