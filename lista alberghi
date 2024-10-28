@@ -253,6 +253,15 @@
     },
     {
         "id": 29,
+        "nome": "Residence Poseidon",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPwJOXpwst-j7b2ggJgVij7J4EZ9WpiR9qiCLZD=s680-w680-h510",
+        "indirizzo": " Strada Comunale, 88841 Le Castella KR",
+        "descrizione": "Il Residence Poseidon, situato a Le Castella, è una struttura accogliente e panoramica, a pochi passi dalle splendide spiagge e dal famoso castello aragonese. Composto da appartamenti ben arredati, offre diverse soluzioni abitative, ideali per famiglie e coppie.Il residence è vicino a ristoranti, negozi e attrazioni locali, rendendolo un punto di partenza ideale per esplorare la Costa dei Gelsomini e i tesori storici della Calabria. Il clima familiare e il servizio attento contribuiscono a creare un'atmosfera piacevole e rilassante.",
+        "telefono": "340 685 4438",
+        "sito_web": "https://www.trivago.it/it/oar/hotel-residence-poseidon-club-le-castella?search=100-6511146"
+    },
+    {
+        "id": 30,
         "nome": "Le Castella Resort & Beach",
         "immagine": "https://lh3.googleusercontent.com/p/AF1QipM3OMb6aH4OvUEBIEu8YdGWaSSVEI6lDL4jSJvA=s680-w680-h510",
         "indirizzo": "88841 Santa Domenica KR",
@@ -261,7 +270,7 @@
         "sito_web": "https://www.lecastellaresortebeach.it/"
     },
     {
-        "id": 30,
+        "id": 31,
         "nome": "Hotel Ristorante L'Orizzonte",
         "immagine": "https://media-cdn.tripadvisor.com/media/photo-s/0f/b5/d1/b2/facciata.jpg",
         "indirizzo": " Contrada Campolongo, 88841 Le Castella KR",
@@ -270,13 +279,40 @@
         "sito_web": "https://hotellorizzonte.it/"
     },
     {
-        "id": 31,
+        "id": 32,
         "nome": "iGV Club Le Castella",
         "immagine": "https://lh3.googleusercontent.com/proxy/9THD-re52_Ahmxy8dBurO3jFWqSvBp3JazKmcQ1SXTpqs7knZ_ut0hbCqMGGnFWFHJuI_Vr9kfoSPKI_suDAlOQh5W8uB68Ed04xtLCJKdIknmrrehsKiJ9dZ3kKr6DYjZx4Oyu-fU2xpv-YTbFLWVSAdGKlt08=s680-w680-h510",
         "indirizzo": "Località Punta Le Castella, 88076, Capo Rizzuto KR",
         "descrizione": "Splendida posizione panoramica, ampia scelta di attività sportive, tutti i servizi per i bambini e ragazzi, biberoneria perfettamente attrezzata, servizio medico e pediatrico",
         "telefono": "0962 795054",
         "sito_web": "https://www.hotellecastella.it/"
+    },
+    {
+        "id": 33,
+        "nome": "Villaggio Tucano",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPaJ6bBg6FLmxehp88GDcwpTcZu0AQlFH8ewQhx=s680-w680-h510",
+        "indirizzo": "Località Santa Domenica, 88841 Le Castella KR",
+        "descrizione": " struttura turistica immersa nella natura, a pochi passi dalla spiaggia. Questo villaggio offre una varietà di sistemazioni, tra cui camere e bungalow, progettati per garantire comfort e privacy.L'atmosfera è vivace e accogliente, con un ampio programma di attività ricreative, tra cui sport acquatici, animazione e intrattenimento serale. Gli ospiti possono godere di ristoranti che servono piatti tipici calabresi, insieme a opzioni internazionali.",
+        "telefono": "3285464311",
+        "sito_web": "https://villaggiotucano.it/"
+    },
+    {
+        "id": 34,
+        "nome": "Sun Bay, Le Castella",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPWakKRYjzM6lq8IFoMxfSBNSvA1saOpXiZ0P0g=s680-w680-h510",
+        "indirizzo": " Località Santa Domenica, 88841 Le Castella KR",
+        "descrizione": "Sun Bay Le Castella è la nuova Area Sosta per Camper Ecosostenibile e Bandiera Blu 2022/2023/2024",
+        "telefono": " 331 779 4561",
+        "sito_web": "https://www.facebook.com/sunbayisolacaporizzuto"
+    },
+    {
+        "id": 35,
+        "nome": "B&B il Vico del Greco",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipPm43VPLHZjzk_4H2IXV9S_gibpUZPdpacDfXwx=s680-w680-h510",
+        "indirizzo": "V. Ucci-Ali, 17, 88841 Le Castella KR",
+        "descrizione": "Il B&B Il Vico del Greco, situato a Le Castella, è un'accogliente struttura che combina charme e comfort. Immerso in un contesto storico e panoramico, offre camere eleganti arredate con gusto, dotate di tutti i comfort moderni, tra cui Wi-Fi gratuito e aria condizionata.Il B&B è anche ben posizionato per esplorare le bellezze della Calabria, offrendo suggerimenti su escursioni e attività locali. L’ospitalità calorosa dei proprietari rende Il Vico del Greco un luogo ideale per una fuga rilassante.",
+        "telefono": "389 967 6662",
+        "sito_web": "https://www.booking.com/hotel/it/b-amp-b-il-vico-del-greco.it.html?aid=311091&label=b-amp-b-il-vico-del-greco-qppscqIHzXo9LbbIWVwSvAS707291388366%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2176900900972%3Alp1008463%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YR10fBTovuitU5KVyXYg8iQ&sid=f8f9764a654bb58decd12920a841bbe0&all_sr_blocks=1029401301_381777731_2_1_0;checkin=2024-11-11;checkout=2024-11-13;dest_id=-119917;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=1029401301_381777731_2_1_0;hpos=1;matching_block_id=1029401301_381777731_2_1_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=1029401301_381777731_2_1_0__21368;srepoch=1730134571;srpvid=168b7710caf6078e;type=total;ucfs=1&"
     }
     
 ]
