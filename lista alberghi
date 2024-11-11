@@ -334,12 +334,57 @@
     },
     {
         "id": 38,
-        "nome": "Casa Vacanze B&B Ucciali",
+        "nome": "Casa Vacanze B&B Uccialì",
         "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190581185.jpg?k=fd0a9b950e737411b84a66730d02e5a67eb0b2b06dc9fa0181ea7c135b8907ef&o=&hp=1",
         "indirizzo": " Piazza Ucciali, 88841 Isola di Capo Rizzuto KR",
         "descrizione": "Casa Vacanze B&B Uccialì è un grazioso hotel situato a Le Castella, Italia. Situato in Via pizzicarola SNC, 88841, isola di capo rizzuto, questo hotel offre ai suoi ospiti un'esperienza deliziosa. Con le sue viste sulla città, offre un ambiente pittoresco per una fuga rilassante. L'hotel dispone di un ristorante e di una reception aperta 24 ore su 24 per soddisfare tutte le vostre esigenze.Ogni unità della Casa Vacanze B&B Uccialì è progettata con gusto e dotata di comfort moderni. ",
         "telefono": "328 739 1990",
         "sito_web": "https://katestravelexperience.eu/casa-vacanze-b-amp-b-ucciali-italy?correlationID=cbbc8455-dba4-491f-b5e2-5560018a1129"
+    },
+    {
+        "id": 39,
+        "nome": "B&b La Scogliera",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipMWIRevXBIRAGS92BZARnGaYjkesd3YtUAoDzmp=s680-w680-h510",
+        "indirizzo": "Via Pizzicarola, 5, 88841 Le Castella KR",
+        "descrizione": "Situato a 400 metri dal Lido a Le Castella, il B&b La Scogliera offre un ristorante e sistemazioni con balcone e connessione WiFi gratuita. Tutte climatizzate, le camere presentano una terrazza, una TV a schermo piatto e un bagno privato con bidet e set di cortesia. Il bed & breakfast propone una colazione alla carta o all’italiana. Il B&b La Scogliera dista 2,2 km dalla Spiaggia di Santa Domenica e 25 km dalle Rovine di Capo Colonna. L'aeroporto più vicino è quello di Crotone, a 13 km dalla struttura.",
+        "telefono": "336 787 626",
+        "sito_web": "https://www.booking.com/hotel/it/b-amp-b-la-scogliera.it.html"
+    },
+    {
+        "id": 40,
+        "nome": "Art Boutique Rooms",
+        "immagine": "https://cf2.bstatic.com/xdata/images/hotel/max1024x768/574763948.jpg?k=7f3be789ded4c91e917aca4e7737585327e619389649e7cebe9dba18efb202ec&o=&hp=1",
+        "indirizzo": "Via Duomo, 39, 88841 Le Castella KR",
+        "descrizione": "Il B&B Art Boutique Room, situato a Le Castella, è una struttura raffinata che unisce l'eleganza dell'arte contemporanea alla funzionalità di un'accoglienza di alta qualità. Le camere sono arredate con uno stile moderno e ricercato, con opere d'arte locali che conferiscono un'atmosfera unica e sofisticata. Ogni stanza è dotata di comfort moderni, come aria condizionata, Wi-Fi gratuito e TV a schermo piatto, per garantire un soggiorno piacevole e rilassante. Il B&B si trova in una posizione centrale, a pochi passi dal mare e dal famoso Castello Aragonese, offrendo agli ospiti la possibilità di esplorare facilmente la zona. La colazione, servita in un ambiente intimo, include prodotti freschi e locali, perfetti per iniziare la giornata con energia. La struttura è ideale per chi cerca un'esperienza più esclusiva e artistica, con un'ospitalità attenta e personale.",
+        "telefono": "388 889 8796",
+        "sito_web": "https://www.booking.com/hotel/it/art-boutique-rooms.it.html?aid=318615&label=cc1_Italian_Italy_IT_IT_161320640085-6wOSlSLPEBQ2t9WsybmYRwS701066172880%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=8b799f123b7ee2f130ff49406f2169d3&dest_id=-119917;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1731342567;srpvid=a6ce73f051c30196;type=total;ucfs=1&"
+    },
+    {
+        "id": 41,
+        "nome": "Miramare b&b di Cerri Maria",
+        "immagine": "https://cf2.bstatic.com/xdata/images/hotel/max1024x768/219219698.jpg?k=dac14c3a7698cee12f15aba27593746f3139a4c0ade2b770745fdbf1eb78a1d3&o=&hp=1",
+        "indirizzo": " Via Scogliera, 15, 88841 Le Castella KR",
+        "descrizione": "Situato a Le Castella, a 300 metri dal Castello, il miramare b&b di cerri maria offre la connessione WiFi gratuita e la vista sul mare. Le unità sono climatizzate e dotate di terrazza, TV a schermo piatto e bagno privato con doccia e asciugacapelli. Al mattino presso questo bed & breakfast viene servita una colazione continentale. Il miramare b&b di cerri maria fornisce il servizio di autonoleggio. La struttura sorge a 14 km dall’Aeroporto di Crotone e fornisce un servizio di navetta aeroportuale a pagamento.",
+        "telefono": "389 823 0851",
+        "sito_web": "https://www.booking.com/hotel/it/miramare-b-amp-b-di-cerri-maria.it.html?aid=311091&label=miramare-b-amp-b-di-cerri-maria-HwldMU1BSEVUbPOfnzX5rAS477401736434%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-888718831660%3Alp1008463%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YR10fBTovuitU5KVyXYg8iQ&sid=8b799f123b7ee2f130ff49406f2169d3&dest_id=-119917;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1731342910;srpvid=d5297495a74f0167;type=total;ucfs=1&"
+    },
+    {
+        "id": 42,
+        "nome": "Le Castella B&B",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipNYaoUtlf2Hkl99GKhPR9D0HRmOlUx-beeAz0jM=s680-w680-h510",
+        "indirizzo": " Via Vil S. Francisco, 9, 88841 Le Castella KR",
+        "descrizione": "Situato nel meraviglioso Le Castella, a soli 200 metri dalla spiaggia del Lido, il Le Castella B&B Restaurant offre una vista incantevole sul rigoglioso giardino. Tra i servizi inclusi gratuitamente troverete la connessione WiFi e un comodo parcheggio privato.Tutte le camere sono state arredate con grande cura, per offrirvi il massimo comfort. Potrete godere di aria condizionata, TV a schermo piatto, frigorifero e bagno privato con bidet.Nel nostro tranquillo e ben curato giardino, potrete rilassarvi e godervi piacevoli momenti di quiete.Il bed & breakfast si trova a soli 2,1 km dalla splendida spiaggia di Santa Domenica e a 25 km dalle affascinanti rovine di Capo Colonna. Se arrivate in aereo, l'aeroporto più vicino è quello di Crotone, situato a soli 13 km dal Le Castella B&B Restaurant.",
+        "telefono": "347 802 3854",
+        "sito_web": "https://beb.it/lecastella/it/"
+    },
+    {
+        "id": 43,
+        "nome": "Relais Ruggiero",
+        "immagine": "https://cf2.bstatic.com/xdata/images/hotel/max1024x768/590026539.jpg?k=462324595860cd0067f4ad88a09d67254c52cc41b27a76dd4cc263c6ea4354eb&o=&hp=1",
+        "indirizzo": " Località brasolo, 88841 Le Castella KR",
+        "descrizione": "Situato a Le Castella, a 2,2 km da Lido a Le Castella, il Relais Ruggiero offre sistemazioni fronte spiaggia e vari servizi, tra cui una spiaggia privata, una piscina stagionale all'aperto e un giardino. La struttura dispone di balcone con vista sul mare. Potrete usufruire di un parcheggio privato a pagamento. Le unità sono climatizzate e dotate di TV satellitare a schermo piatto. Tutti gli alloggi dispongono di WiFi gratuito e di bagno privato con doccia a filo pavimento e accappatoi, mentre solo alcuni comprendono una terrazza. Lenzuola e asciugamani sono inclusi. Ogni mattina il bed & breakfast allestisce una colazione continentale e a buffet che include specialità locali, prodotti da forno freschi e frutta. In loco vi attendono anche un bar e un barbecue da utilizzare nei mesi più caldi. Come ospiti del Relais Ruggiero potrete praticare varie attività a Le Castella e nei dintorni, come snorkeling, gite in bicicletta ed escursioni a piedi. La struttura dista 26 km dalle rovine di Capo Colonna e 2,6 km dal Castello di Le Castella. Lo scalo più vicino è l’Aeroporto di Crotone, a 14 km dal Relais Ruggiero, che fornisce un servizio di navetta aeroportuale a pagamento.",
+        "telefono": "320 159 9703",
+        "sito_web": "https://www.relaisruggiero.it/"
     }
     
     
