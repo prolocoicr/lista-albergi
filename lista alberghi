@@ -394,6 +394,24 @@
         "descrizione": "Sunrise Holiday Home - B&B in Family è un'incantevole sistemazione situata in Via Scogliera 13 a Le Castella, Italia. Situato a soli 400 metri dal Lido a Le Castella, gli ospiti possono accedere facilmente alla splendida spiaggia. L'hotel offre unità confortevoli e ben attrezzate con balcone e WiFi gratuito per un soggiorno comodo.Le camere sono dotate di terrazza e offrono comfort quali aria condizionata, TV a schermo piatto e bagno privato con cabina doccia e asciugacapelli. Ciò garantisce agli ospiti di rilassarsi e godersi il soggiorno con tutti i comfort necessari.",
         "telefono": "334 692 1216",
         "sito_web": "https://katestravelexperience.eu/sunrise-b-amp-b-le-castella-italy?correlationID=3a99af03-e07d-469f-a168-1bf829c3dc1d"
+    },
+    {
+        "id": 45,
+        "nome": "Aragon cottage apartments",
+        "immagine": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476296006.jpg?k=958c48a2f4bc6c7dcd04670b155d83e563210c4f3022d42e2ff9c146b1f83deb&o=&hp=1",
+        "indirizzo": "SP43, 88841 Le Castella KR",
+        "descrizione": "L’ARAGON COTTAGE si trova a Le Castella. La struttura si trova a 1,1 km dal castello cittadino e propone un giardino e un parcheggio privato gratuito. L’appartamento presenta una camera da letto, un bagno, le lenzuola, gli asciugamani, una TV a schermo piatto, una zona pranzo, una cucina completamente attrezzata e una terrazza con vista sul giardino. La struttura dista 10 km dall’Aeroporto di Crotone, lo scalo più vicino.",
+        "telefono": "329 616 6478",
+        "sito_web": "https://www.booking.com/hotel/it/aragon-cottage.it.html?aid=311091&label=aragon-cottage-uqEXuyg_anF41J_LcQBhZwS707397415841%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2324454079419%3Alp1008463%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YR10fBTovuitU5KVyXYg8iQ&sid=8b799f123b7ee2f130ff49406f2169d3&dest_id=-119917&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1731430394&srpvid=4be676b40cd30125&type=total&ucfs=1&"
+    },
+    {
+        "id": 46,
+        "nome": "Hotel Annibale",
+        "immagine": "https://lh3.googleusercontent.com/p/AF1QipOPP1VfbQmBXDR-ge6M-_7Z4AmWIkH50NFbrALR=s680-w680-h510",
+        "indirizzo": "Via Duomo, 55, 88841 Le Castella KR",
+        "descrizione": "Hotel a 3 stelle, L'Hotel Annibale, situato a Le Castella, un'incantevole località costiera nel sud Italia, è un accogliente albergo a pochi passi dal mare e dalla famosa fortezza aragonese. La struttura, recentemente ristrutturata, offre camere moderne e confortevoli, alcune con vista panoramica sul mare e sul castello. Gli ospiti possono godere di un'ampia gamma di servizi, tra cui una piscina all'aperto, un ristorante che serve piatti tipici della cucina calabrese e una terrazza panoramica. L'hotel è ideale per chi cerca una vacanza rilassante, con la possibilità di esplorare le bellezze naturali e storiche della zona, tra cui le spiagge, il borgo di Le Castella.",
+        "telefono": "0962 376108",
+        "sito_web": "https://hotel-annibale-le-castella-calabria.hotelmix.it/"
     }
     
     
